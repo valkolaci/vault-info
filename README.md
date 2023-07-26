@@ -8,16 +8,17 @@ Info about HashiCorp's Vault
 | etcd v3                      |  +  |   community    |
 | mysql                        |  +  |   community    |
 | postgresql                   |  +  |   community    |
+| cockroachdb                  |  +  |   community    |
 | zookeeper                    |  +  |   community    |
 |                              |     |                |
 | apple foundationdb           |  +  |   community    |
 | aws dynamodb                 |  +  |   community    |
 | google cloud spanner         |  +  |   community    |
+| google cloud storage         |  +  |   community    |
 | oracle oci storage           |  +  |   community    |
 |                              |     |                |
 | filesystem                   |  -  |   hashicorp    |
 | aerospike                    |  -  |   community    |
-| cockroachdb                  |  -  |   community    |
 | s3                           |  -  |   community    |
 | mssql                        |  -  |   community    |
 | cassandra                    |  -  |   community    |
